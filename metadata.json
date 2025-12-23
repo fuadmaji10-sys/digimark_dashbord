@@ -1,0 +1,8 @@
+{
+  "name": "DigiMark Dashboard Pro",
+  "description": "A comprehensive digital marketing manager dashboard for multi-channel analysis, data management, and task tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
